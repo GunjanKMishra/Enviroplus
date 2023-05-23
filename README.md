@@ -3,3 +3,4 @@
 - Gunjan Mishra
 - Keshav Goyal
 - Tarang Tyagi
+- Rinkit Adhana
