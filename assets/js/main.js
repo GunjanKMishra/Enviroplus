@@ -66,17 +66,17 @@
         data: {
             labels: ["2016", "2017", "2018", "2019", "2020", "2021", "2022"],
             datasets: [{
-                    label: "USA",
+                    label: "PET",
                     data: [15, 30, 55, 65, 10, 80, 95],
                     backgroundColor: "rgba(0, 140, 0, 0.65)"
                 },
                 {
-                    label: "UK",
+                    label: "HDPE",
                     data: [8, 35, 40, 60, 70, 55, 75],
                     backgroundColor: "rgba(0, 71, 0, 0.65)"
                 },
                 {
-                    label: "AU",
+                    label: "PVC",
                     data: [12, 25, 45, 55, 65, 70, 60],
                     backgroundColor: "rgba(22, 207, 22, 0.65)"
                 }
@@ -95,13 +95,13 @@
         data: {
             labels: ["2016", "2017", "2018", "2019", "2020", "2021", "2022"],
             datasets: [{
-                    label: "Salse",
+                    label: "Your's",
                     data: [15, 30, 55, 45, 70, 65, 85],
                     backgroundColor: "rgba(0, 140, 0, 0.65)",
                     fill: true
                 },
                 {
-                    label: "Revenue",
+                    label: "Top User",
                     data: [99, 135, 170, 130, 190, 180, 270],
                     backgroundColor: "rgba(22, 207, 22, 0.65)",
                     fill: true
