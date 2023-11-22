@@ -1,5 +1,6 @@
-# HACKMAIT 4.0
+# HACKWITHMAIT 4.0
 ## Enviroplus
 - Gunjan Mishra
 - Keshav Goyal
-- Tarang Tyagi
+- Pratham Batra
+- Yash Goyal
